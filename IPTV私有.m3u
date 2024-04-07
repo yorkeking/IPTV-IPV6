@@ -508,4 +508,5 @@ http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
 #私有频道/22个频道
-#EXTINF:-1 tvg-id="migu" tvg-name="成人影视" tvg-logo="https://img2.imgtp.com/2024/04/07/GJ5Y2Gzg.png" group-title="成人影视",18禁-01
+#EXTINF:-1 tvg-id="Adult" tvg-name="MSD-135/欲求不满风韵后妈" tvg-logo="https://img2.imgtp.com/2024/04/07/GJ5Y2Gzg.png" group-title="成人影视",18禁-01
+https://gcyivjc.qrneryt.com/api/app/media/m3u8/av/8j/mh/ul/05/f85b7d6d22444d29a8de6787bcb62818.m3u8
