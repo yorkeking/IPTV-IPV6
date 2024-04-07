@@ -17,7 +17,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001859/index.m3
 #EXTINF:-1 tvg-id="A08" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV7.png" group-title="央视高清",CCTV-7 国防军事
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-id="A09" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8.png" group-title="央视高清",CCTV-8 电视剧
-http://222.241.154.37:9901/tsfile/live/23008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
 #EXTINF:-1 tvg-id="A10" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV9.png" group-title="央视高清",CCTV-9 纪录
 http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
 #EXTINF:-1 tvg-id="A11" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV10.png" group-title="央视高清",CCTV-10 科教
@@ -506,8 +506,4 @@ http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
 http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="移动咪咕",咪咕直播-42
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-
-#成人频道/1个频道
-#EXTINF:-1,tvg-id="Adult" tvg-name="成人" tvg-logo="https://img2.imgtp.com/2024/04/07/GJ5Y2Gzg.png" group-title="私密频道",成人频道-01
-https://cdn.adultiptv.net/bigtits.m3u8
 
